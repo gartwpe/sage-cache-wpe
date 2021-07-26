@@ -4,8 +4,7 @@
  * Version: 0.1.0
  * Plugin URI: https://github.com/gartwpe/sage-cache-wpe
  * Description: Ensures that sage's cache folders are present on WP Engine. Make sure to update your Sage theme <code>compiled</code> path to <code>'compiled' => '/tmp/sage-cache-' . PWP_NAME,</code> (ie. inside <code>/wp-content/themes/YOUR_THEME/config/view.php</code>, <code>/THEME/vendor/roots/acorn/config/view.php</code>)
- * Author: Gareth
- * Author URI: N/A
+ * Author: Gart
  * Requires at least: 5.0
  * Tested up to: 5.8
  *
