@@ -33,18 +33,3 @@ if ( !is_dir( $dir ) ) {
     mkdir( $dir, 0775 );
 	}
 }
-
-
-
-'compiled' => '/tmp/sage-cache-' . PWP_NAME,
-
-Don't copy from staging to production.
-Modify theme cache path on production
-Whitelist IP
-
-
-
-
-    "web-96727-i-04fcf054fd02cd99d": {
-
-    "web-96727-i-0a0d15552e4ae9caf": {
