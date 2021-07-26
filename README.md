@@ -21,7 +21,7 @@ wp-content/themes/YOUR_THEME/vendor/roots/acorn/config/view.php
 
 ## Usage
 
-That's it! The Sage cache directrory will automatically regenerate in `/tmp/sage-cache-INSTALL_NAME/*` if not are already not present.
+That's it! The Sage cache directrory will automatically regenerate in `/tmp/sage-cache-INSTALL_NAME/*` if not already not present.
 
 ## Contributing
 Pull requests are welcome. 
