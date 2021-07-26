@@ -26,6 +26,5 @@ That's it! The Sage cache directrory will automatically regenerate in `/tmp/sage
 ## Contributing
 Pull requests are welcome. 
 
-
 ## License
 [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
