@@ -2,7 +2,7 @@
 
 Ensures that Sage's cache folders are present on a WP Engine environment even after restarts/reboots (GCP/AWS) and web-head cycling (AWS). 
 
-The code uses the WP Engine `PWP_NAME` variable (set in `wp-config.php` to "know" where it is and generates a Sage cache directory accordingly - allowing copies between production/staging/development without sharing cached code.
+The code uses the WP Engine `PWP_NAME` variable (set in `wp-config.php`) to "know" where it is and generates a Sage cache directory accordingly - allowing copies between production/staging/development without sharing cached code.
 
 ## Installation
 
