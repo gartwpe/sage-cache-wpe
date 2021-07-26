@@ -10,7 +10,7 @@ The code uses the WP Engine `PWP_NAME` variable (set in `wp-config.php` to "know
 
 2. Modify the Sage theme `compiled` path to:
 ```php
-'compiled' => '/tmp/sage-cache-' . PWP_NAME,`. 
+'compiled' => '/tmp/sage-cache-' . PWP_NAME,
 ```
 
 For example, within... 
