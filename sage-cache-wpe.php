@@ -12,7 +12,7 @@
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Gareth
+ * @author Gart
  * @since 0.1.0
  */
 
